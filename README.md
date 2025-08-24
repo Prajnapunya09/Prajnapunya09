@@ -4,40 +4,36 @@
 
 ---
 
-## 🔹 About Me
-- 🎓 Graduate in **Electronics and Communication Engineering**
-- 🌱 Exploring **Full-Stack Web Development** (HTML, CSS, JS, Node.js, Express.js, MongoDB)
-- 🤖 Worked on projects like **Endoscopic Display System** and **Precision Irrigation System**
-- 💡 Passionate about **IoT, automation, and building real-world applications**
-- 📫 Contact me at: **prajnashetty567@gmail.com**
+# 🔹 About Me
+- 🎓 **Engineering Graduate in Electronics and Communication Engineering (ECE)**  
+- 💻 Passionate about **designing and building responsive web applications**  
+- 🌱 Currently learning **Full Stack Development**  
+- 🚀 Seeking **entry-level opportunities** as a *Frontend or Full Stack Web Developer*  
+- 🤖 Worked on projects like **Image to PDF Converter**, **Digital Clock**, and **Precision Irrigation System**  
+- 💡 Passionate about **IoT, automation, and building real-world applications**  
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Core Skills:** Python | C | JavaScript | SQL  
-**Web Development:** HTML | CSS | Node.js | Express.js | MongoDB | React  
-**IoT & Hardware:** Arduino | Sensors | Automation Systems  
-**Tools & Platforms:** GitHub | VS Code | MySQL
-
----
-
-## 📌 Projects
-
-- 🌱 **Precision Irrigation System** – Automated irrigation using IoT sensors  
-- 🩺 **Endoscopic Display System** – Real-time medical imaging solution  
-- 🍴 **BiteRate (Food Price Finder)** – Web app to check food prices  
-- 🎬 **Movie Hub** – Responsive movie information website  
-- 🌐 **Portfolio Website** – Personal portfolio showcasing my projects and skills  
-- 📄 **Image to PDF Converter** – Web tool to convert images into PDF files  
+# 🛠️ Skills
+- **Programming Languages:** Python | C | JavaScript | SQL  
+- **Web Development:** HTML | CSS | Node.js | Express.js | MongoDB | React  
+- **IoT & Hardware:** Arduino | Sensors | Automation Systems  
+- **Tools & Platforms:** GitHub | VS Code | MySQL  
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/prajna-punya-674683268)  
-- 🌟 [GitHub](https://github.com/Prajnapunya09)  
+# 📧 Contact Me
+- ✉️ Email: **prajnashetty567@gmail.com**  
+- 💼 LinkedIn: [Prajna Punya](https://linkedin.com/in/prajna-punya-674683268)  
 
 ---
 
+# 🗣️ Languages Known
+- English  
+- Kannada  
+- Hindi  
+
+---
+
+# 📌 Motto
 ⭐ *“Always learning, always building.”*
