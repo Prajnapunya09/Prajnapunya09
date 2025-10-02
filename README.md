@@ -30,7 +30,8 @@
 
 # 🗣️ Languages Known
 - English  
-- Kannada  
+- Kannada
+- Tulu 
 - Hindi  
 
 ---
