@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prajna Punya
+# 👋  Hi, I'm Prajna Punya
 
 💻 Electronics & Communication Engineer | IoT & Automation Enthusiast | Full-Stack Developer in Progress 🚀
 
