@@ -22,7 +22,7 @@
 
 ---
 
-# 📧 Contact Me
+# 📧  Contact Me
 - ✉️ Email: **prajnashetty567@gmail.com**  
 - 💼 LinkedIn: [Prajna Punya](https://linkedin.com/in/prajna-punya-674683268)  
 
