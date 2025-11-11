@@ -28,7 +28,7 @@
 
 ---
 
-# 🗣️ Languages Known
+# 🗣️  Languages Known
 - English  
 - Kannada
 - Tulu 
