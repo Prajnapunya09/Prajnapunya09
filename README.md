@@ -4,7 +4,7 @@
 
 ---
 
-# 🔹 About Me
+# 🔹  About Me
 - 🎓 **Engineering Graduate in Electronics and Communication Engineering (ECE)**  
 - 💻 Passionate about **designing and building responsive web applications**  
 - 🌱 Currently learning **Full Stack Development**  
